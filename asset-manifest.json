@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlyonaLozovska/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/AlyonaLozovska/goit-react-hw-01-components/static/js/main.38c12476.js",
+    "static/js/787.84e13687.chunk.js": "/AlyonaLozovska/goit-react-hw-01-components/static/js/787.84e13687.chunk.js",
+    "index.html": "/AlyonaLozovska/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/AlyonaLozovska/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.38c12476.js.map": "/AlyonaLozovska/goit-react-hw-01-components/static/js/main.38c12476.js.map",
+    "787.84e13687.chunk.js.map": "/AlyonaLozovska/goit-react-hw-01-components/static/js/787.84e13687.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.38c12476.js"
+  ]
+}
